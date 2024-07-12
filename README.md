@@ -11,8 +11,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tailbook2712&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tailbook2712&count_private=true&show_icons=true&theme=radical)
 
 ###
